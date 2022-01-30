@@ -1,8 +1,7 @@
 .ac-game-settings {
     width: 100%;
     height: 100%;
-    console.log("11111111111");
-    background-image:url("/static/image/menu/background.gif");
+    background-image:url("/static/image/menu/bamboo.gif");
     background-size:100% 100%;
     user-select:none;
 }
@@ -35,6 +34,7 @@
     padding-right: 1vw;
     cursor: pointer;
 }
+
 
 .ac-game-settings-acwing > img {
     position: relative;
@@ -89,15 +89,19 @@
     height:7vh;
 }
 
+
 .ac-game-settings-acwing {
     display: black;
     height: 7vh;
 }
 
+
 .ac-game-settings-item {
     width: 100%;
     height: 100%;
 }
+
+
 
 .ac-game-settings-item > input {
     width: 90%;
@@ -107,6 +111,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
 
 .ac-game-settings-item > button {
     color: white;
@@ -126,7 +131,7 @@
 .ac-game-menu {
     width: 100%;
     height: 100%;
-    background-image:url("/static/image/menu/background.gif");
+    background-image:url("/static/image/menu/mountain.gif");
     background-size:100% 100%;
     user-select:none;
 }
