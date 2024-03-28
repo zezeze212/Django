@@ -10,7 +10,7 @@ class ScoreBoard extends AcGameObject {
         this.win_img.src = "https://cdn.acwing.com/media/article/image/2021/12/17/1_8f58341a5e-win.png";
 
         this.lose_img = new Image();
-        this.lose_img.src = "https://cdn.acwing.com/media/article/image/2021/12/17/1_9254b5f95e-lose.png";
+        this.lose_img.src = "https://git.acwing.com/RyanMoriarty/homework/-/raw/master/utils/Noob.png";
     }
 
     start(){

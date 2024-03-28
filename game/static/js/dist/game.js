@@ -702,7 +702,7 @@ class ScoreBoard extends AcGameObject {
         this.win_img.src = "https://cdn.acwing.com/media/article/image/2021/12/17/1_8f58341a5e-win.png";
 
         this.lose_img = new Image();
-        this.lose_img.src = "https://cdn.acwing.com/media/article/image/2021/12/17/1_9254b5f95e-lose.png";
+        this.lose_img.src = "https://git.acwing.com/RyanMoriarty/homework/-/raw/master/utils/Noob.png";
     }
 
     start(){
@@ -1179,13 +1179,6 @@ class Settings {
         <div class="ac-game-settings-option">
             注册
         </div>
-        <br>
-        <div class="ac-game-settings-acwing">
-            <img width="30" src="https://app641.acapp.acwing.com.cn/static/image/settings/acwing_logo.png">
-            <div>
-                AcWing一键登录
-            </div>
-        </div>
     </div>
     <div class="ac-game-settings-register">
         <div class="ac-game-settings-title">
@@ -1216,12 +1209,6 @@ class Settings {
         <div class="ac-game-settings-option">
             登录
         </div>
-        <br>
-        <div class="ac-game-settings-acwing">
-            <img width="30" src="https://app641.acapp.acwing.com.cn/static/image/settings/acwing_logo.png">
-            <div>
-                AcWing一键登录
-            </div>
     </div>
 </div>
 `);
